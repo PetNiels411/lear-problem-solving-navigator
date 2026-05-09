@@ -1,53 +1,140 @@
 # Lear Manufacturing Problem-Solving Navigator
 
-A production-grade single-page dashboard built for a Lear-like automotive supplier environment, focused on Seating and E-Systems problem solving with PDCA, DMAIC, A3, and 8D.
+A comprehensive dashboard for manufacturing problem-solving and quality management at Lear Corporation.
 
-## Getting started
+## Features
 
-Install dependencies:
+- **Executive Overview**: High-level KPIs and performance metrics
+- **Problem-Solving Methods**: PDCA, DMAIC, A3, and 8D methodologies
+- **Interactive Dashboards**: Charts, filters, and real-time data visualization
+- **Search Functionality**: Find issues and initiatives across the organization
+- **Responsive Design**: Works on desktop and mobile devices
 
+## Live Demo
+
+🚀 **View the live application**: [GitHub Pages Link - Update this after deployment]
+
+## Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/lear-problem-solving-navigator.git
+cd lear-problem-solving-navigator
+```
+
+2. Install dependencies:
 ```bash
 npm install
 ```
 
-Run the development server:
-
+3. Start the development server:
 ```bash
 npm run dev
 ```
 
-Build the production bundle:
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+### Build for Production
 
 ```bash
 npm run build
 ```
 
-Preview the production build:
+## Deployment to GitHub Pages
 
+This project is configured for easy deployment to GitHub Pages.
+
+### Step-by-Step Deployment
+
+1. **Create a GitHub Repository**:
+   - Go to [GitHub.com](https://github.com)
+   - Click "New repository"
+   - Name it `lear-problem-solving-navigator`
+   - Make it public (recommended for sharing)
+   - **Don't initialize with README** (we already have one)
+
+2. **Connect Local Repository**:
+   ```bash
+   git remote set-url origin https://github.com/YOUR_USERNAME/lear-problem-solving-navigator.git
+   git push -u origin main
+   ```
+
+3. **Enable GitHub Pages**:
+   - Go to your repository on GitHub
+   - Click "Settings" tab
+   - Scroll down to "Pages" section
+   - Under "Source", select "Deploy from a branch"
+   - Select "main" branch and "/ (root)" folder
+   - Click "Save"
+
+4. **Your site will be live at**:
+   `https://YOUR_USERNAME.github.io/lear-problem-solving-navigator/`
+
+### Updating the Live Site
+
+After making changes:
 ```bash
-npm run preview
+git add .
+git commit -m "Your update message"
+git push
+```
+GitHub Pages will automatically rebuild and deploy your changes.
+
+## Project Structure
+
+```
+src/
+├── components/
+│   ├── charts/          # Chart components (Pareto, Trend, Stacked Bar)
+│   ├── filters/         # Global filter components
+│   ├── kpi/            # KPI display grid
+│   ├── layout/         # Header, Sidebar, Help panel
+│   ├── methods/        # Problem-solving method views (PDCA, DMAIC, A3, 8D)
+│   ├── search/         # Search modal and functionality
+│   └── widgets/        # Dashboard widgets (gauges, progress rings)
+├── data/               # Mock JSON data files
+├── types/              # TypeScript type definitions
+└── utils/              # Filter and recommendation utilities
 ```
 
-## Project structure
+## Technologies Used
 
-- `src/`
-  - `App.tsx` — main dashboard shell and view routing
-  - `dataProvider.ts` — static data abstraction layer for future live integration
-  - `types/` — shared dashboard data models and domain types
-  - `utils/` — filter and recommendation logic
-  - `components/` — layout, filter, KPI, chart, and method board components
-- `data/` — mock JSON datasets for plants, customers, suppliers, programs, products, initiatives, defects, and timeseries metrics
-- `scripts/generateMockData.mjs` — data generation utility for the sample dataset
+- **React 18** - UI framework
+- **TypeScript** - Type safety
+- **Vite** - Build tool and dev server
+- **Tailwind CSS** - Utility-first styling
+- **Framer Motion** - Smooth animations
+- **Recharts** - Data visualization library
+- **Lucide React** - Icon library
 
-## Replacing mock data with live sources
+## Replacing Mock Data with Live Sources
 
-This app is built to allow future replacement of the static JSON mock data with live sources.
+This app is designed to easily replace static JSON data with live enterprise systems:
 
-- Edit `src/dataProvider.ts` to point to REST APIs, SQL-backed services, SharePoint lists, SAP/MES views, or other enterprise feeds.
-- Keep the typed model shapes in `src/types/index.ts` consistent with the new source data.
-- Use the exported provider methods:
-  - `getPlants()`
-  - `getCustomers()`
+- Edit `src/dataProvider.ts` to connect to REST APIs, databases, or enterprise systems
+- Keep the typed interfaces in `src/types/index.ts` consistent
+- Available data provider methods:
+  - `getPlants()`, `getCustomers()`, `getSuppliers()`
+  - `getInitiatives()`, `getDefects()`, `getMetrics()`
+  - `getFilteredData()` for dynamic filtering
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature-name`
+3. Make your changes and commit: `git commit -m 'Add feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request
+
+## License
+
+This project is proprietary to Lear Corporation.
   - `getSuppliers()`
   - `getPrograms()`
   - `getProducts()`
