@@ -1,0 +1,122 @@
+[
+  {
+    "id": "supplier-1",
+    "name": "Precision Wire Systems",
+    "productFocus": "Electrical",
+    "riskRating": "High"
+  },
+  {
+    "id": "supplier-2",
+    "name": "Global Connector Systems",
+    "productFocus": "Seating materials",
+    "riskRating": "Medium"
+  },
+  {
+    "id": "supplier-3",
+    "name": "Comfort Trim Solutions",
+    "productFocus": "Electrical",
+    "riskRating": "Low"
+  },
+  {
+    "id": "supplier-4",
+    "name": "Advanced Foam Works",
+    "productFocus": "Seating materials",
+    "riskRating": "High"
+  },
+  {
+    "id": "supplier-5",
+    "name": "High-Voltage Assemblies",
+    "productFocus": "Electrical",
+    "riskRating": "Medium"
+  },
+  {
+    "id": "supplier-6",
+    "name": "Dynamic Fasteners",
+    "productFocus": "Seating materials",
+    "riskRating": "Low"
+  },
+  {
+    "id": "supplier-7",
+    "name": "Torque Components",
+    "productFocus": "Electrical",
+    "riskRating": "High"
+  },
+  {
+    "id": "supplier-8",
+    "name": "Sequence Logistics",
+    "productFocus": "Seating materials",
+    "riskRating": "Medium"
+  },
+  {
+    "id": "supplier-9",
+    "name": "Safety Sensor Works",
+    "productFocus": "Electrical",
+    "riskRating": "Low"
+  },
+  {
+    "id": "supplier-10",
+    "name": "Thermal Comfort Technologies",
+    "productFocus": "Seating materials",
+    "riskRating": "High"
+  },
+  {
+    "id": "supplier-11",
+    "name": "Seat Frame Dynamics",
+    "productFocus": "Electrical",
+    "riskRating": "Medium"
+  },
+  {
+    "id": "supplier-12",
+    "name": "Junction Systems",
+    "productFocus": "Seating materials",
+    "riskRating": "Low"
+  },
+  {
+    "id": "supplier-13",
+    "name": "Premium Leather Supply",
+    "productFocus": "Electrical",
+    "riskRating": "High"
+  },
+  {
+    "id": "supplier-14",
+    "name": "Sustainability Materials",
+    "productFocus": "Seating materials",
+    "riskRating": "Medium"
+  },
+  {
+    "id": "supplier-15",
+    "name": "Integrated Harness Partners",
+    "productFocus": "Electrical",
+    "riskRating": "Low"
+  },
+  {
+    "id": "supplier-16",
+    "name": "Motion Control Devices",
+    "productFocus": "Seating materials",
+    "riskRating": "High"
+  },
+  {
+    "id": "supplier-17",
+    "name": "Assembly Line Systems",
+    "productFocus": "Electrical",
+    "riskRating": "Medium"
+  },
+  {
+    "id": "supplier-18",
+    "name": "Quality Audit Services",
+    "productFocus": "Seating materials",
+    "riskRating": "Low"
+  },
+  {
+    "id": "supplier-19",
+    "name": "Flex Cable Group",
+    "productFocus": "Electrical",
+    "riskRating": "High"
+  },
+  {
+    "id": "supplier-20",
+    "name": "Battery Interface Solutions",
+    "productFocus": "Seating materials",
+    "riskRating": "Medium"
+  }
+]

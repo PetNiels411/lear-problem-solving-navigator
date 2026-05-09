@@ -1,0 +1,110 @@
+[
+  {
+    "id": "product-1",
+    "name": "Complete seats",
+    "segment": "Seating",
+    "processFamily": "Cutting"
+  },
+  {
+    "id": "product-2",
+    "name": "Seat structures",
+    "segment": "Seating",
+    "processFamily": "Sewing"
+  },
+  {
+    "id": "product-3",
+    "name": "Recliners",
+    "segment": "Seating",
+    "processFamily": "Foam molding"
+  },
+  {
+    "id": "product-4",
+    "name": "Tracks",
+    "segment": "Seating",
+    "processFamily": "Trim assembly"
+  },
+  {
+    "id": "product-5",
+    "name": "Latches",
+    "segment": "Seating",
+    "processFamily": "Stamping"
+  },
+  {
+    "id": "product-6",
+    "name": "Headrests",
+    "segment": "Seating",
+    "processFamily": "Recliner assembly"
+  },
+  {
+    "id": "product-7",
+    "name": "Foam pads",
+    "segment": "Seating",
+    "processFamily": "Final assembly"
+  },
+  {
+    "id": "product-8",
+    "name": "Trim covers",
+    "segment": "Seating",
+    "processFamily": "Harness crimp"
+  },
+  {
+    "id": "product-9",
+    "name": "Leather surfaces",
+    "segment": "Seating",
+    "processFamily": "Connector insertion"
+  },
+  {
+    "id": "product-10",
+    "name": "Textile surfaces",
+    "segment": "Seating",
+    "processFamily": "Continuity test"
+  },
+  {
+    "id": "product-11",
+    "name": "Seat heater mats",
+    "segment": "Seating",
+    "processFamily": "HV assembly"
+  },
+  {
+    "id": "product-12",
+    "name": "Lumbar systems",
+    "segment": "E-Systems",
+    "processFamily": "Potting"
+  },
+  {
+    "id": "product-13",
+    "name": "Wire harnesses",
+    "segment": "E-Systems",
+    "processFamily": "Electrical validation"
+  },
+  {
+    "id": "product-14",
+    "name": "Connectors",
+    "segment": "E-Systems",
+    "processFamily": "JIT sequencing"
+  },
+  {
+    "id": "product-15",
+    "name": "Terminals",
+    "segment": "E-Systems",
+    "processFamily": "Cutting"
+  },
+  {
+    "id": "product-16",
+    "name": "Junction components",
+    "segment": "E-Systems",
+    "processFamily": "Sewing"
+  },
+  {
+    "id": "product-17",
+    "name": "Battery disconnect units",
+    "segment": "E-Systems",
+    "processFamily": "Foam molding"
+  },
+  {
+    "id": "product-18",
+    "name": "Electronic control modules",
+    "segment": "E-Systems",
+    "processFamily": "Trim assembly"
+  }
+]

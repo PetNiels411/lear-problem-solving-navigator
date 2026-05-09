@@ -1,0 +1,124 @@
+{
+  "points": [
+    {
+      "month": "2024-06",
+      "opened": 43,
+      "closed": 22,
+      "seatingPPM": 1238,
+      "eSystemsPPM": 922,
+      "complaints": 6,
+      "scrapCost": 42253,
+      "reworkHours": 917
+    },
+    {
+      "month": "2024-07",
+      "opened": 57,
+      "closed": 36,
+      "seatingPPM": 1240,
+      "eSystemsPPM": 945,
+      "complaints": 8,
+      "scrapCost": 45006,
+      "reworkHours": 919
+    },
+    {
+      "month": "2024-08",
+      "opened": 69,
+      "closed": 43,
+      "seatingPPM": 1235,
+      "eSystemsPPM": 969,
+      "complaints": 10,
+      "scrapCost": 45474,
+      "reworkHours": 980
+    },
+    {
+      "month": "2024-09",
+      "opened": 78,
+      "closed": 58,
+      "seatingPPM": 1243,
+      "eSystemsPPM": 979,
+      "complaints": 6,
+      "scrapCost": 48030,
+      "reworkHours": 940
+    },
+    {
+      "month": "2024-10",
+      "opened": 88,
+      "closed": 27,
+      "seatingPPM": 1261,
+      "eSystemsPPM": 980,
+      "complaints": 8,
+      "scrapCost": 47754,
+      "reworkHours": 952
+    },
+    {
+      "month": "2024-11",
+      "opened": 41,
+      "closed": 34,
+      "seatingPPM": 1290,
+      "eSystemsPPM": 1019,
+      "complaints": 10,
+      "scrapCost": 49271,
+      "reworkHours": 965
+    },
+    {
+      "month": "2024-12",
+      "opened": 57,
+      "closed": 44,
+      "seatingPPM": 1310,
+      "eSystemsPPM": 1053,
+      "complaints": 6,
+      "scrapCost": 48602,
+      "reworkHours": 991
+    },
+    {
+      "month": "2025-01",
+      "opened": 63,
+      "closed": 55,
+      "seatingPPM": 1306,
+      "eSystemsPPM": 1068,
+      "complaints": 8,
+      "scrapCost": 50611,
+      "reworkHours": 1040
+    },
+    {
+      "month": "2025-02",
+      "opened": 80,
+      "closed": 25,
+      "seatingPPM": 1317,
+      "eSystemsPPM": 1093,
+      "complaints": 10,
+      "scrapCost": 49261,
+      "reworkHours": 1015
+    },
+    {
+      "month": "2025-03",
+      "opened": 88,
+      "closed": 33,
+      "seatingPPM": 1309,
+      "eSystemsPPM": 1091,
+      "complaints": 6,
+      "scrapCost": 49489,
+      "reworkHours": 1020
+    },
+    {
+      "month": "2025-04",
+      "opened": 41,
+      "closed": 45,
+      "seatingPPM": 1325,
+      "eSystemsPPM": 1126,
+      "complaints": 8,
+      "scrapCost": 51712,
+      "reworkHours": 1077
+    },
+    {
+      "month": "2025-05",
+      "opened": 52,
+      "closed": 55,
+      "seatingPPM": 1333,
+      "eSystemsPPM": 1141,
+      "complaints": 10,
+      "scrapCost": 52285,
+      "reworkHours": 1063
+    }
+  ]
+}

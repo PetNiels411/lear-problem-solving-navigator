@@ -1,0 +1,50 @@
+[
+  {
+    "id": "customer-1",
+    "name": "Continental Auto",
+    "tier": "OEM",
+    "region": "North America"
+  },
+  {
+    "id": "customer-2",
+    "name": "Global Mobility",
+    "tier": "OEM",
+    "region": "Europe"
+  },
+  {
+    "id": "customer-3",
+    "name": "Pacific OEM",
+    "tier": "OEM",
+    "region": "Asia"
+  },
+  {
+    "id": "customer-4",
+    "name": "EuroMotors",
+    "tier": "OEM",
+    "region": "South America"
+  },
+  {
+    "id": "customer-5",
+    "name": "Jade Automotive",
+    "tier": "Tier 1",
+    "region": "North America"
+  },
+  {
+    "id": "customer-6",
+    "name": "Summit Vehicles",
+    "tier": "Tier 1",
+    "region": "Europe"
+  },
+  {
+    "id": "customer-7",
+    "name": "NexGen Autos",
+    "tier": "Tier 1",
+    "region": "Asia"
+  },
+  {
+    "id": "customer-8",
+    "name": "United Wheels",
+    "tier": "Tier 1",
+    "region": "South America"
+  }
+]

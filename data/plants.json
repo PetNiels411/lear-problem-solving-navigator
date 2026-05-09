@@ -1,0 +1,112 @@
+[
+  {
+    "id": "plant-1",
+    "name": "Southfield Seating Plant",
+    "region": "North America",
+    "country": "USA",
+    "segment": "Seating",
+    "facilityType": "Final seat assembly",
+    "oee": 78,
+    "ftq": 90,
+    "jitAccuracy": 92
+  },
+  {
+    "id": "plant-2",
+    "name": "Mexico Seat Assembly",
+    "region": "North America",
+    "country": "Mexico",
+    "segment": "Seating",
+    "facilityType": "Seat assembly and trim",
+    "oee": 79.2,
+    "ftq": 90.5,
+    "jitAccuracy": 92.6
+  },
+  {
+    "id": "plant-3",
+    "name": "Poland Components Plant",
+    "region": "Europe",
+    "country": "Poland",
+    "segment": "Seating",
+    "facilityType": "Seat component machining",
+    "oee": 80.4,
+    "ftq": 91,
+    "jitAccuracy": 93.2
+  },
+  {
+    "id": "plant-4",
+    "name": "Morocco Harness Plant",
+    "region": "Europe",
+    "country": "Morocco",
+    "segment": "E-Systems",
+    "facilityType": "Wire harness assembly",
+    "oee": 81.6,
+    "ftq": 91.5,
+    "jitAccuracy": 93.8
+  },
+  {
+    "id": "plant-5",
+    "name": "Shanghai Seating JV",
+    "region": "Asia",
+    "country": "China",
+    "segment": "Seating",
+    "facilityType": "Comfort systems assembly",
+    "oee": 82.8,
+    "ftq": 92,
+    "jitAccuracy": 94.4
+  },
+  {
+    "id": "plant-6",
+    "name": "Germany E-Systems Plant",
+    "region": "Europe",
+    "country": "Germany",
+    "segment": "E-Systems",
+    "facilityType": "Connector and terminal production",
+    "oee": 84,
+    "ftq": 92.5,
+    "jitAccuracy": 95
+  },
+  {
+    "id": "plant-7",
+    "name": "Serbia Harness Plant",
+    "region": "Europe",
+    "country": "Serbia",
+    "segment": "E-Systems",
+    "facilityType": "High-voltage harness assembly",
+    "oee": 85.2,
+    "ftq": 93,
+    "jitAccuracy": 95.6
+  },
+  {
+    "id": "plant-8",
+    "name": "Romania Electronics Plant",
+    "region": "Europe",
+    "country": "Romania",
+    "segment": "E-Systems",
+    "facilityType": "ECU and distribution assembly",
+    "oee": 86.4,
+    "ftq": 93.5,
+    "jitAccuracy": 96.2
+  },
+  {
+    "id": "plant-9",
+    "name": "India Seating Plant",
+    "region": "Asia",
+    "country": "India",
+    "segment": "Seating",
+    "facilityType": "Trim and foam assembly",
+    "oee": 87.6,
+    "ftq": 94,
+    "jitAccuracy": 96.8
+  },
+  {
+    "id": "plant-10",
+    "name": "Brazil JIT Center",
+    "region": "South America",
+    "country": "Brazil",
+    "segment": "E-Systems",
+    "facilityType": "Sequencing and export logistics",
+    "oee": 88.8,
+    "ftq": 94.5,
+    "jitAccuracy": 97.4
+  }
+]

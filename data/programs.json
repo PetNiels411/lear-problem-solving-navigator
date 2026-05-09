@@ -1,0 +1,82 @@
+[
+  {
+    "id": "program-1",
+    "name": "NextGen EV Seat Platform",
+    "platform": "Platform 1",
+    "customerId": "customer-1",
+    "segment": "Seating",
+    "launchPhase": "Launch"
+  },
+  {
+    "id": "program-2",
+    "name": "Global Sedan Seating",
+    "platform": "Platform 2",
+    "customerId": "customer-2",
+    "segment": "E-Systems",
+    "launchPhase": "Ramp"
+  },
+  {
+    "id": "program-3",
+    "name": "Luxury SUV Comfort",
+    "platform": "Platform 3",
+    "customerId": "customer-3",
+    "segment": "Seating",
+    "launchPhase": "Sustain"
+  },
+  {
+    "id": "program-4",
+    "name": "EV Harness Architecture",
+    "platform": "Platform 4",
+    "customerId": "customer-4",
+    "segment": "E-Systems",
+    "launchPhase": "NPI"
+  },
+  {
+    "id": "program-5",
+    "name": "Battery Disconnect Program",
+    "platform": "Platform 5",
+    "customerId": "customer-5",
+    "segment": "Seating",
+    "launchPhase": "Launch"
+  },
+  {
+    "id": "program-6",
+    "name": "Premium Seating Launch",
+    "platform": "Platform 6",
+    "customerId": "customer-6",
+    "segment": "E-Systems",
+    "launchPhase": "Ramp"
+  },
+  {
+    "id": "program-7",
+    "name": "Commercial Van Integration",
+    "platform": "Platform 7",
+    "customerId": "customer-7",
+    "segment": "Seating",
+    "launchPhase": "Sustain"
+  },
+  {
+    "id": "program-8",
+    "name": "Autonomous Mobility UX",
+    "platform": "Platform 8",
+    "customerId": "customer-8",
+    "segment": "E-Systems",
+    "launchPhase": "NPI"
+  },
+  {
+    "id": "program-9",
+    "name": "High-Voltage Distribution",
+    "platform": "Platform 9",
+    "customerId": "customer-1",
+    "segment": "Seating",
+    "launchPhase": "Launch"
+  },
+  {
+    "id": "program-10",
+    "name": "North America JIT Program",
+    "platform": "Platform 10",
+    "customerId": "customer-2",
+    "segment": "E-Systems",
+    "launchPhase": "Ramp"
+  }
+]
